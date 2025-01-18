@@ -20,4 +20,4 @@
 - 분석 기간 : 2024.05.13 ~ 2024.06.24
 - 사용 언어 : Python, HTML, CSS
 - 팀원 : 박지완 , 남궁현, 박세라, 윤하경
-- 분석 코드 : <https://github.com/jiwaan/Virtual-Try-on>
+- 코드 : <https://github.com/jiwaan/Virtual-Try-on>
