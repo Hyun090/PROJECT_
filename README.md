@@ -7,4 +7,4 @@
 - 분야 : NLP , 텍스트 마이닝
 - 분석 기간 : 2024.05.02 ~ 2024.05.28
 - 사용 언어 : Python
-- 분석 코드 : <
+- 분석 코드 : <https://github.com/Hyun090/PROJECT_/tree/master>
